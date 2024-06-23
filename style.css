@@ -1,0 +1,19 @@
+body{
+    background-image:url("bg.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.nav-link{
+    color: #fff !important;
+}
+
+.nav-link:hover{
+    color: darkgray !important;
+}
+
+.bg-secondary-opacity {
+    background-color: rgba(200, 200, 200, 0.75);
+}
+
